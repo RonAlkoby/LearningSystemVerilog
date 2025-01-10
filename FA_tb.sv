@@ -11,7 +11,6 @@ module FA_tb;
     );
 
     initial begin
-        // בדיקה של כל האפשרויות
         $display("A B Cin | Sum Cout");
         for (int i = 0; i < 8; i++) begin
             {a, b, cin} = i;
