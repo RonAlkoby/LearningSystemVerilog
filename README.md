@@ -1,2 +1,2 @@
 # LearningSystemVerilog
-A collection of small projects and exercises developed in SystemVerilog, focusing on building skills in digital design, simulation, and verification.
+A collection of ongoing small projects and exercises being developed in SystemVerilog, focusing on building skills in digital design, simulation, and verification.
